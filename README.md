@@ -1,2 +1,2 @@
-# Jogo-do-Detona-Ralph
-Criando um Jogo do Detona Ralph com JavaScript
+# Jogo do Detona Ralph
+Criando um Jogo do Detona Ralph com JavaScript. 
